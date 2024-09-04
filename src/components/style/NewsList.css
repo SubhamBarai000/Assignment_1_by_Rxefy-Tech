@@ -1,0 +1,11 @@
+.news-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    background-color: #141414;
+}
+
+.news-list h2 {
+    color: white;
+}

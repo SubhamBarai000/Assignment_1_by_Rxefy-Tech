@@ -1,0 +1,38 @@
+.news-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2c2c2c;
+    border: 1px solid #e50914;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
+}
+
+.news-content {
+    flex: 1;
+}
+
+.news-content h3 {
+    color: white;
+    margin: 0 0 5px;
+}
+
+.news-content p {
+    color: #b3b3b3;
+    margin: 0;
+}
+
+.bookmark-button {
+    background-color: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #e50914;
+    margin-left: 10px;
+}
+
+.bookmark-button:hover {
+    color: #b81d24;
+}

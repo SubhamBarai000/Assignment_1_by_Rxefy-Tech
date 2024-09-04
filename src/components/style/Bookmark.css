@@ -1,0 +1,21 @@
+.bookmark-container {
+    padding: 20px;
+    background-color: #141414;
+}
+
+.bookmark-item {
+    background-color: #2c2c2c;
+    border: 1px solid #e50914;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 15px;
+}
+
+.bookmark-item h3 {
+    color: white;
+}
+
+.bookmark-item p {
+    color: #b3b3b3;
+}
